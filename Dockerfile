@@ -8,7 +8,7 @@ FROM oliechti/c1-a-student
 
 #
 
-ENV  Lankeu cedric.lankeungassam@heig-vd.ch
+ENV  STUDENT_EMAIL cedric.lankeungassam@heig-vd.ch
 
 #
 
